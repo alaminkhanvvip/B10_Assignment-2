@@ -1,5 +1,7 @@
 # FitLife - Fitness Website
 
+🌐 **Live Demo:** [https://fitlife01x.netlify.app/](https://fitlife01x.netlify.app/)
+
 A simple fitness website built with HTML, CSS, and JavaScript.
 
 ## Features
@@ -34,11 +36,13 @@ A simple fitness website built with HTML, CSS, and JavaScript.
 └── README.md
 ```
 
-## How to Run
+## Quick Start
 
-1. Download or clone the files
+**Live Demo:** [https://fitlife01x.netlify.app/](https://fitlife01x.netlify.app/)
+
+**Local Setup:**
+1. Clone the repository
 2. Open `index.html` in a web browser
-3. The website will load automatically
 
 ## Sections
 
